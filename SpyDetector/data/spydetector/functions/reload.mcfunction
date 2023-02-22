@@ -1,0 +1,1 @@
+tellraw @a "Realoded SpyDetector V-1.2"
